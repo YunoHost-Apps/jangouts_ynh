@@ -1,5 +1,5 @@
 {
-  "janusServer": "http://127.0.0.1/8088/janus",
+  "janusServer": "ws://127.0.0.1/8188/janus",
   "janusDebug": false,
   "janusWithCredentials": true,
   "joinUnmutedLimit": 3,
