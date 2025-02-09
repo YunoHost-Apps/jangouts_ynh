@@ -48,7 +48,7 @@ ram.runtime = "50M"
     url = "https://github.com/jangouts/jangouts/archive/refs/tags/v0.6.0.tar.gz"
     sha256 = "adc00644f332bba4849f5e96f68048ee56dd16b9ded1177d670fc0c9b4bdf77d"
 
-    # autoupdate.strategy = "latest_github_tag"
+    autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
 
